@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Learning MVVM Sample</string>
+    <string name="enter_email">Enter Email</string>
+</resources>
